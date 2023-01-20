@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chefm0ha
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning PHP and C++
+- 🌱 I’m currently learning Git and JAVA
 - 💞️ I’m looking to collaborate on a library project
 - 📫 How to reach me: mfadlouallah@gmail.com
 
