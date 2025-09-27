@@ -51,11 +51,11 @@ fun_fact: "I love automating repetitive tasks and optimizing systems!"
 
 <div align="center">
   
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=chefm0ha&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chefm0ha&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chefm0ha&theme=tokyonight)
 
 </div>
 
