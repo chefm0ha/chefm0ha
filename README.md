@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Mohammed FADLOUALLAH
+# Hey there! 👋 I'm Mohammed FADLOUALLAH aka Chef Moha 👨‍🍳
 
 <div align="center">
   
@@ -17,7 +17,7 @@
 current_focus: "Final year engineering studies in Data Software Sciences"
 learning: ["Kubernetes", "Advanced Spring Boot", "Machine Learning"]
 goals_2026: ["Complete PFE internship", "Graduate as Software Engineer", "Land first full-time role"]
-fun_fact: "I love automating repetitive tasks and optimizing systems!"
+fun_fact: "I cook clean code like I cook clean meals - with passion and precision! 👨‍🍳"
 ```
 
 ## 🛠️ Tech Stack
@@ -115,7 +115,7 @@ fun_fact: "I love automating repetitive tasks and optimizing systems!"
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadlouallahmohammed)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mfadlouallah@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chefm0ha)
 
 </div>
 
@@ -123,7 +123,7 @@ fun_fact: "I love automating repetitive tasks and optimizing systems!"
 
 <div align="center">
   
-⭐️ **"Code is like humor. When you have to explain it, it's bad."** ⭐️
+👨‍🍳 "Good code is like a good recipe - simple ingredients, clear steps, perfect execution!" 👨‍💻
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=flat-square)
 
