@@ -125,6 +125,6 @@ fun_fact: "I cook clean code like I cook clean meals - with passion and precisio
   
 👨‍🍳 "Good code is like a good recipe - simple ingredients, clear steps, perfect execution!" 👨‍💻
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=chefm0ha&color=blueviolet&style=flat-square)
 
 </div>
